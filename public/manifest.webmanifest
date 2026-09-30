@@ -1,0 +1,13 @@
+{
+  "name": "Polar Ops — Antarctic Station Twin",
+  "short_name": "Polar Ops",
+  "description": "Offline-ready operations dashboard demo for Antarctic research stations.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#061727",
+  "theme_color": "#061727",
+  "icons": [
+    { "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
