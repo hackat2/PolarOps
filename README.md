@@ -17,7 +17,7 @@
 
 <br/>
 
-[🚀 **Live Demo**](#) &nbsp;|&nbsp; [🎥 **Video Pitch**](#)
+[🚀 **Live Demo**](#) &nbsp;|&nbsp;
 
 </div>
 
