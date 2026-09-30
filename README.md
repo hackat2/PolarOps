@@ -17,7 +17,7 @@
 
 <br/>
 
-[🚀 **Live Demo**](#) &nbsp;|&nbsp;
+[🚀 https://polar-ops-bay.vercel.app/](#) &nbsp;|&nbsp; [🎥 **Video Pitch**](#)
 
 </div>
 
